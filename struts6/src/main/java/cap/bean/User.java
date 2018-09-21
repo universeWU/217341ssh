@@ -5,6 +5,10 @@ public class User {
     private String username;
     private String password;
 
+    public User(String s, String universe1, String universe11) {
+
+    }
+
     public int getId() {
         return id;
     }
